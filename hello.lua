@@ -15,7 +15,20 @@ print(s);
 --只有以上两种方法可以获得新卡
  
 -- AlbumDataMgr.isOwnCardById(id) --判断是否有这张卡
-
+-- 促销数据                             √
+-- 入口刷新                             √
+-- log
+-- back_to_lobby  数据 (重！)
+-- 网络回调 （重点是数据）                √
+-- 常量大写 变量下划线问题 noFlag          √
+-- 可以在initData 里 getEvent          √
+-- removeMessage?                     √
+-- gift 可以用menu来做                  √
+-- 各种位置的确定 (重)
+-- 重新加载room？  
+-- game addReward 循环？tipsLayer 同    √
+-- 删掉原来的activity_fish！
+-- 数据 -》UI ——》动画
 -- 数据 -》UI ——》动画
 
 
